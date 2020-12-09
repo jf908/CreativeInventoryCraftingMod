@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "creativeinventorycrafting",
+  "version": "${version}",
+
+  "name": "Creative Inventory Crafting",
+  "description": "Adds a 2x2 crafting grid to the creative inventory.",
+  "authors": ["jf908"],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/creativeinventorycrafting/icon.png",
+
+  "environment": "client",
+  "mixins": [
+    "creativeinventorycrafting.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  }
+}

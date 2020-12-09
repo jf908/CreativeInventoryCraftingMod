@@ -1,0 +1,13 @@
+# Creative Inventory Crafting Minecraft Mod
+
+Minecraft mod that adds a 2x2 crafting grid to the creative inventory.
+
+![Screenshot](https://imgur.com/GztPV63.png)
+
+## Development
+
+For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+
+## License
+
+MIT
